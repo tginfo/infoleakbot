@@ -1,0 +1,6 @@
+{
+    "botID": 1000000000,
+    "api_id": 123456,
+    "api_hash": "abcdef123456",
+    "dbLink": "postgresql://postgres:docker@localhost/telegram"
+}
